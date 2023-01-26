@@ -9,16 +9,16 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/SS7SS/Tepthon",
+    "website": "https://github.com/lourdmahdi70/testengte",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "5814191030",
+            "value": "",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "40e7041d06ea7b6ee1cf39b3188b3452",
+            "value": "",
             "required": true
         },
         "TERMUX": {
